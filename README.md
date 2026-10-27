@@ -21,6 +21,10 @@ Instead of just giving you an explanation, it uses your answers and thinking to 
 
 ![LearnHarness teaching session](docs/assets/teaching-session.png)
 
+## Startup product engineering interview track
+
+This fork includes a [personalized curriculum and copyable session prompts](docs/product-engineering-interviews.md) for startup product engineering interviews: a two-hour daily loop, an initial 14-day sprint, and practice in scoping, implementation, debugging, and explaining tradeoffs. Start with the teaching-session prompt after configuring your provider and models.
+
 ## How it works
 
 1. **Measure.** Before teaching, the agent finds where your understanding ends on each part the lesson depends on. Your answers, confidence, and thinking show it where to start.
